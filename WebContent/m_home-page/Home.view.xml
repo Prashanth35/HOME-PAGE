@@ -1,0 +1,13 @@
+<core:View xmlns:core="sap.ui.core" xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m"
+		controllerName="m_home-page.Home" xmlns:html="http://www.w3.org/1999/xhtml">
+	<Page title="Title">
+		<content>
+		<Image src="image/grass-ball.jpg" class="bgimage" height="100%" minScreenWidth="Desktop" 	demandPopin="true"/>
+		<VBox justifyContent="Center" alignItems="Center" height="100%">
+		<Button text="BookmyGame" class=""/>
+			</VBox>		
+				
+	
+		</content>
+	</Page>
+</core:View>

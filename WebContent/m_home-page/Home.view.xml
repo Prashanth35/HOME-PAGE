@@ -4,7 +4,7 @@
 		<content>
 		<Image src="image/grass-ball.jpg" class="bgimage" height="100%" minScreenWidth="Desktop" 	demandPopin="true"/>
 		<VBox justifyContent="Center" alignItems="Center" height="100%">
-		<Button text="BookmyGame" class=""/>
+		<Button text="BOOK MY CRICKET" width="24rem" style="background-color:red;"/>
 			</VBox>		
 				
 	
